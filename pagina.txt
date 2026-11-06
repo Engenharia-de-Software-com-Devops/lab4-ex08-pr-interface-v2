@@ -1,1 +1,1 @@
-titulo=Blog
+titulo=Blog do curso
